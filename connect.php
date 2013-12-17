@@ -3,21 +3,11 @@
 session_start();
 
 //connect.php
-/*
-$server	    = 'mysql1009.ixwebhosting.com';
-
-$username	= 'C315316_forum';
-
-$password	= 'Ccct123';
-
-$database	= 'C315316_forum';
-*/
-
 
 $server	    = 'localhost';
-$username	= 'illyagor_pUpdate';
-$password	= 'Ccct123&';
-$database	= 'illyagor_patientUpdate';
+$username	= 'serverNAME'; //these have been over written must set-up a DB before going further
+$password	= 'serverPASSWORD&';
+$database	= 'databaseNAME';
 
 
 if(!mysql_connect($server, $username, $password))
