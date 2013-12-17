@@ -1,0 +1,53 @@
+/* BEGIN BASIC FORUM STYLES */
+body {
+	text-align: center;			/* make sure IE centers the page too */
+}
+
+#wrapper {
+	width: 900px;
+	margin: 0 auto; 			/* center the page */
+}
+
+#content {
+	background-color: #fff;
+	border: 1px solid #000;
+	float: left;
+	font-family: Arial;
+	padding: 20px 30px;
+	text-align: left;
+	width: 100%;				/* fill up the entire div */
+}
+
+
+/* begin table styles */
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table a {
+	color: #000;
+}
+
+table a:hover {
+	color:#373737;
+	text-decoration: none;
+}
+
+th {
+	background-color: #FFFFFF;
+	color: #000000;
+}
+
+td {
+	padding: 5px;
+}
+
+/* Begin font styles */
+h1, #footer {
+	font-family: Arial;
+	color: #F1F3F1;
+}
+
+h3 {margin: 0; padding: 0;}
+
