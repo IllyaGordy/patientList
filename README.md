@@ -11,6 +11,7 @@ The basic user has the privileges to see the study that they are responsible for
 There is also a print function implemented to be able to print the relative information.
 
 This project could be demoed here: http://iloosh.com/illya/testing/patientList/index.php
+
 For the admin you can use
 username: admin     password: test
 
